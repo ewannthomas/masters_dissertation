@@ -1,1 +1,14 @@
-This is the repoistory for codes used for my Master's thesis, titled"Wage inequality in India during 2017-18". 
+This is the repoistory for codes used for my Master's thesis, titled "Wage inequality in India during 2017-18". The Periodic Labour Force Survey (PLFS) of 2017-18 by the NSSO has been used for this project.
+
+FV- First Visit
+RV- Revist
+PER- Person
+HH- Household
+
+PER FV- codes for cleaning and running analysis using individual level micro data from PLFS. One may use this file for reproducimg my thesis results.
+PER RV- codes for cleaning and running analysis using individual level micro data from PLFS (revisit)
+
+HH FV&RV, HH RV - codes for cleaning household level micro data
+
+
+
